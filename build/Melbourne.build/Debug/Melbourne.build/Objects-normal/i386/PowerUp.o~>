@@ -1,0 +1,3 @@
+/Users/stewartmatheson/Documents/Melbourne/PowerUp.cpp: In member function 'virtual void PowerUp::collide(WorldModel*)':
+/Users/stewartmatheson/Documents/Melbourne/PowerUp.cpp:16: error: 'PLAYER' was not declared in this scope
+/Users/stewartmatheson/Documents/Melbourne/PowerUp.cpp:20: error: 'class WorldModel' has no member named 'set_powerup_state'

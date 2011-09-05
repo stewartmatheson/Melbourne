@@ -1,0 +1,5 @@
+/Users/stewartmatheson/Documents/Melbourne/PowerUpView.cpp: In member function 'virtual void PowerUpView::notify(Subject*)':
+/Users/stewartmatheson/Documents/Melbourne/PowerUpView.cpp:21: error: 'text' was not declared in this scope
+/Users/stewartmatheson/Documents/Melbourne/PowerUpView.cpp:23: error: 'p' was not declared in this scope
+/Users/stewartmatheson/Documents/Melbourne/PowerUpView.cpp:24: error: no matching function for call to 'sf::RenderWindow::Draw(<type error>)'
+/Library/Frameworks/SFML.framework/Headers/Graphics/RenderTarget.hpp:67: note: candidates are: virtual void sf::RenderTarget::Draw(const sf::Drawable&)
